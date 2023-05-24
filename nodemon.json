@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "ignore": ["./node_modules/**", "./pnpm-lock.yaml", "./dist","./data"],
+  "execMap": {
+    "rb": "ruby"
+  }
+}
